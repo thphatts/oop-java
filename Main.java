@@ -6,7 +6,7 @@ public class Main {
         try (Scanner sc = new Scanner(System.in)) {
             while (true) {
                 System.out.println("\n====== MENU QUẢN LÝ ======");
-                System.out.println("1. Thêm sinh viên");ssss
+                System.out.println("1. Thêm sinh viên");
                 System.out.println("2. Hiển thị danh sách");
                 System.out.println("3. Sửa sinh viên");
                 System.out.println("4. Xóa sinh viên");
